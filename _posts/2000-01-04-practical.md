@@ -12,7 +12,7 @@ fa-icon: check
 * ECTS credits: 2 ECTS
 * Teaching language: English
 * Semester: Autumn 2017
-* Class Schedule: 22, 23, 24, 25 & 30 January 2018 (10am-12pm Lectures, 12pm-2pm Lab)
-* Capacity: 40 BSc students
+* Class Schedule: 22, 23, 24, 25 & 30 January 2019 (2pm-4pm Lectures, 4pm-6pm Lab)
+* Capacity: 40 students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
-* Course on [Piazza](https://piazza.com/upc/winter2018/230235/home)
+* Course on [Piazza](https://piazza.com/upc/winter2019/230235/home)
