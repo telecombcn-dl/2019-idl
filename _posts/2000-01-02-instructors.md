@@ -50,11 +50,5 @@ fa-icon: info
       <div>Javier Ruiz</div>
     </a>
 </div>
-<div class="author">
-    <a href="https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/AntonioBonafonte-160x160.jpg"></div>
-      <div>Antonio Bonafonte</div>
-    </a>
-</div>
 <br>
 
