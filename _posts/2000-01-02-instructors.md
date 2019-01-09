@@ -25,12 +25,6 @@ fa-icon: info
       <div>No&eacute; Casas</div>
     </a>
 </div>
-<div class="author">
-    <a href="https://imatge.upc.edu/web/people/veronica-vilaplana" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/VeronicaVilaplana.jpg"></div>
-      <div>Veronica Vilaplana</div>
-    </a>
-</div>
 <br>
 <div class="author">
 <a href="http://www.costa-jussa.com/" target="_blank">
